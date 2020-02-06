@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: hans-test-result-app-pod
+  name: result-app-pod
   labels:
     name: result-app-pod
     app: demo-voting-app
